@@ -5,7 +5,7 @@
 A highly polished, visually identical replication of the Instagram Home Feed built with Flutter, focusing on performance, clean architecture, and complex touch interactions.
 
 ## 🔗 Submission Details
-- **GitHub Repository**: https://github.com/Priyam475/instahome.git
+- **GitHub Repository**: https://github.com/Priyam475/InstaH
 - **Demo Video**: [INSERT_YOUR_DEMO_LINK_HERE] (Showing Shimmer, Infinite Scroll, Pinch-to-Zoom, and Toggles)
 
 ---
